@@ -1,0 +1,29 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+Label {
+	-fx-font-size: 28pt;
+}
+
+RadioButton, CheckBox {
+	-fx-font-size: 14pt;
+}
+
+Label, RadioButton, CheckBox {
+	-fx-text-fill: blue;
+	-fx-font-weight: bold;
+	-fx-font-family: Consolas;
+}
+
+#shots {
+	-fx-font-size: 18pt;
+}
+
+#name  {
+	-fx-font-size: 20pt;
+	-fx-width: 150;
+}
+	
+
+.root {
+	-fx-background-color: aqua;
+}
